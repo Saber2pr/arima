@@ -1,3 +1,4 @@
 FROM freqtradeorg/freqtrade:stable
 
-RUN pip install pmdarima==2.0.4
+RUN conda install statsmodels matplotlib scipy numpy -y 
+RUN pip3 install pmdarima

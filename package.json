@@ -1,6 +1,6 @@
 {
   "name": "arima",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "repository": "https://github.com/Saber2pr/arima/",
   "author": "muhai <muhai.li@tuya.com>",

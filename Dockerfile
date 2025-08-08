@@ -1,3 +1,3 @@
 FROM freqtradeorg/freqtrade:stable
 
-RUN pip3 install numpy pmdarima
+RUN pip install numpy cython statsmodels patsy pmdarima

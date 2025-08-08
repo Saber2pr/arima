@@ -1,3 +1,3 @@
-FROM freqtradeorg/freqtrade:stable
+FROM freqtradeorg/freqtrade:develop
 
 RUN pip install pmdarima

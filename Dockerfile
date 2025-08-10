@@ -1,3 +1,3 @@
-FROM freqtradeorg/freqtrade:2024.5
+FROM freqtradeorg/freqtrade:2025.1
 
 RUN pip install pmdarima
